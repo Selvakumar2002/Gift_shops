@@ -1,0 +1,68 @@
+.carousel-control-next {
+    position: absolute;
+    top: 30;
+    /* left: 20%; */
+    bottom: 0;
+    z-index: 1;
+    display: inline-flex;
+    align-items: end;
+     justify-content: start;
+    width: 15%;
+    padding: 0;
+    color: #8b0e0e;
+    text-align: end;
+    background: 0 0;
+    border: 0;
+    float: right;
+    margin-bottom: 10px;
+    opacity: .5;
+    transition: opacity .15s ease;
+}
+ .carousel-control-prev{
+    position: absolute;
+    top: 30;
+    margin-bottom: 10px;
+    bottom: 0;
+    z-index: 0;
+    display: inline-flex;
+    align-items: end;
+    justify-content: end;
+    width: 15%;
+    padding: 0;
+    color: #8b0e0e !important;
+    text-align: end;
+    float: left;
+    background: 0 0;
+    border: 0;
+    opacity: .5;
+    transition: opacity .15s ease;
+}
+.carousel-indicators  [data-bs-target] {
+    opacity: 0;
+    display: none;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    background-color: #db5bb3;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+}
+
+
+
+.seactionfirstbnt{
+    background-color: #e058ac;
+    border:  1px solid #e058ac ;
+}
+
+.seactionfirstbnt:hover {
+    background-color: #FFC7ED;
+    color: #e058ac;
+    border:  1px solid #e058ac ;
+
+
+}

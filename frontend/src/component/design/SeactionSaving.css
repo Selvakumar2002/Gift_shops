@@ -1,0 +1,23 @@
+.seactionsavingbtn1 {
+    background-color: #38bcda;
+    border: 1px solid #38bcda;
+
+}
+
+.seactionsavingbtn1:hover {
+    background-color: #7fd7eb;
+    border: 1px solid #38bcda;
+
+}
+
+.seactionsavingbtn2 {
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+}
+
+.seactionsavingbtn2:hover {
+    background-color: #7fd7eb;
+    border: 1px solid white;
+
+}

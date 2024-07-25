@@ -1,0 +1,52 @@
+ [
+    {
+        "id": 1,
+        "Title": "Ring",
+        "Price": 250,
+        "Img": "./ring.jpeg"
+    },
+    {
+        "id": 2,
+        "Title": "Teddy",
+        "Price": 500,
+        "Img": "./teddy.jpeg"
+    },
+    {
+        "id": 3,
+        "Title": "Watch",
+        "Price": 500,
+        "Img": "./watch.jpeg"
+        
+    },
+    {
+        "id": 4,
+        "Title": "Car",
+        "Price": 250,
+        "Img": "./car.jpeg"
+    },
+    {
+        "id": 5,
+        "Title": " Cricket Bat",
+        "Price": 250,
+        "Img": "./bat.jpeg"
+    },
+    {
+        "id": 6,
+        "Title": "Cricket Ball",
+        "Price": 250,
+        "Img": "./ball.png"
+    },
+    
+    {
+        "id": 7,
+        "Title": "water-bottle",
+        "Price": 250,
+        "Img": "./p-images/water-bottle.png"
+    },
+    {
+        "id": 8,
+        "Title": "water-bottle",
+        "Price": 250,
+        "Img": "./p-images/gym rope.webp"
+    }
+]

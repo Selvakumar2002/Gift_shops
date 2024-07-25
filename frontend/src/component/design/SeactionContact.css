@@ -1,0 +1,15 @@
+.contactbtn{
+    width: 40%;
+    display: flex; 
+    justify-content: center;
+    background-color: rgb(222, 21, 155);
+    color: white;
+    border: 1px solid rgb(222, 21, 155);
+}
+
+.contactbtn:hover{
+    width: 40%;
+    background-color: white;
+    color: rgb(222, 21, 155);
+    border: 1px solid rgb(222, 21, 155);
+}
